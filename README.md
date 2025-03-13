@@ -19,6 +19,7 @@ Our goal should always be to create stable, functional software. Based on experi
 From a project management perspective, testing is essential because every project has scope, time, budget, and quality constraints. We must release the product as specified in the requirements document, which defines the scope, on a specific date, without exceeding the budget, and within the established quality standards.
 
 **Testing, as a form of quality control , helps achieve the agreed-upon goals within the set scope, time, quality and budget constraints.**
+
 **Testing should not be limited to the test team. Any stakeholder can use their testing skills to bring the project closer to success. Testing components, systems, and associated documentation helps identify defects in the software.**
 
 
